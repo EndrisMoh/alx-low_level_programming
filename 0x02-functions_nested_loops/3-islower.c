@@ -14,4 +14,4 @@ int _islower(int c)
 		return (0);
 		/* putchar (c); */
 		/* printf("la va de c=%d\n", c); */
-}		   
+}
