@@ -3,7 +3,7 @@
 
 void *memcpy(void *dest, const void *src, size_t n);
 /**
- * main - function that copies memory area
+ *_memcpy - function that copies memory area
  *@dest: pointer to char tyep
  *@src: integer
  *@n: unsigned int n
