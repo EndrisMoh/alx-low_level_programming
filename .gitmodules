@@ -4,3 +4,6 @@
 [submodule "0x1D-C-Binary_trees/binary_trees"]
 	path = 0x1D-C-Binary_trees/binary_trees
 	url = https://github.com/EndrisMoh/binary_trees
+[submodule "0x1B-sorting_algorithms/sorting_algorithms"]
+	path = 0x1B-sorting_algorithms/sorting_algorithms
+	url = https://github.com/EndrisMoh/sorting_algorithms
