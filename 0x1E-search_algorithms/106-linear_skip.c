@@ -8,8 +8,8 @@
  *
  * @list: pointer to the head of the skip list to traverse in
  * @value: value to search for
- * 	Assume that list will be sorted in ascending order
- * 
+ *		Assume that list will be sorted in ascending order
+ *
  * Return: pointer on the first node where value is located, or NULL if list
  * is NULL or value not found
  */
