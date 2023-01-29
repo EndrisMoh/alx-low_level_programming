@@ -1,4 +1,4 @@
-## 0x1E-search_algorithms
+## 0x1E-Search_Algorithms
 
 This directory is abour 0x1E-search_algorithms
 
